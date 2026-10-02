@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Десятая строка">
+  <rect width="48" height="48" rx="11" fill="#1d2024"/>
+  <rect x="5" y="34" width="38" height="3.4" rx="1.7" fill="#c56a0d"/>
+  <text x="24" y="29" text-anchor="middle" font-family="Lora, Georgia, serif" font-weight="700" font-size="22" fill="#f1e2cc">10</text>
+</svg>
